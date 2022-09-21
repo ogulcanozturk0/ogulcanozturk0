@@ -6,7 +6,8 @@
 -  I'am currently studying industrial engineering at Duzce University.
 -  I’m currently learning selenium, appium, java.
 -  How to reach me: ogulcann.ozturk@gmail.com
-
+<br />
+<br />
 ## Skills
 ---
 
