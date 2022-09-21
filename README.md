@@ -8,6 +8,7 @@
 -  How to reach me: ogulcann.ozturk@gmail.com
 <br />
 <br />
+
 ## Skills
 ---
 
