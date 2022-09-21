@@ -1,6 +1,5 @@
 ### Hello there! I'm Oğulcan ÖZTÜRK :sunglasses:
 ---
-<br />
 
 ## Software Devoloper in Test
 ---
